@@ -24,7 +24,7 @@ Update the table (today you need to fill at least the first two columns)
 | Dawid Uchal            | [dav3794](https://github.com/dav3794)                   |    | Maciej Bielecki |
 | Konstanty Kraszewski   | [KraszewskiK](https://github.com/KraszewskiK)           |TO DO | Anastasiy Ramanchanka, Jakub Binda, Michalina Wysocka |
 | Daniel Zalewski        | [SleepDealler](https://github.com/SleepDealler)         | [ECT](https://github.com/M-Chojnacki6/ADP_project) | Mateusz Chojnacki, Younginn Park, Krzysztof Łukasz |
-
+| Lidia Stadnik          | [lidst](https://github.com/lidst) |                     | [PC](https://github.com/Silbena/ProtCon) | Maria Nizik, Barbara Poplawska, Zuzanna Smektala |
  
 ### Task 2
 Create the directory for your project with README.md file in <b>'projects'</b> directory where you will describe the subject, 
